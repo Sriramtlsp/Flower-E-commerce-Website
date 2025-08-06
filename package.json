@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A beautiful responsive e-commerce website for a flower shop",
   "private": true,
+  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
